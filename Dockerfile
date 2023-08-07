@@ -1,6 +1,6 @@
 # Use Microsoft's official build .NET image.
 # https://hub.docker.com/_/microsoft-dotnet
-FROM mcr.microsoft.com/dotnet/sdk:7.0-alpine AS build
+FROM mcr.microsoft.com/dotnet/sdk:5.0-alpine AS build
 WORKDIR /app
 
 # Install production dependencies.
@@ -18,7 +18,7 @@ RUN dotnet publish -c Release -o out
 
 # Use Microsoft's official runtime .NET image.
 # https://hub.docker.com/_/microsoft-dotnet
-FROM mcr.microsoft.com/dotnet/sdk:7.0-alpine AS runtime
+FROM mcr.microsoft.com/dotnet/sdk:5.0-alpine AS runtime
 WORKDIR /app
 COPY --from=build /app/out ./
 
