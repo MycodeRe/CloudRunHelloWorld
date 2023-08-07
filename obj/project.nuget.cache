@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NL6JKtRZfOA4OkxLz4z7/FQcw/ZWHirlKHbHAea61H+2K22arlbqFORRgk2ggaPdpvxkLsOWjbJFPl1YXBl4Aw==",
+  "dgSpecHash": "rQueUdSo3CR0g4S/u8GGKlA5yfUBRjmhmszmvgcleYE1HwyMUJfAC4stLJa6+/OvMYjLD6Qfz/9a9iTLBX9SHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
   ],
   "logs": []
 }
