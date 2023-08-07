@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp\\helloworld-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp.csproj",
       "projectName": "helloworld-csharp",
-      "projectPath": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp\\helloworld-csharp.csproj",
+      "projectPath": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp.csproj",
       "packagesPath": "C:\\Users\\priya.a.venkatesan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\helloworld-csharp\\obj\\",
+      "outputPath": "C:\\Users\\priya.a.venkatesan\\source\\repos\\CloudRunHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\priya.a.venkatesan\\AppData\\Roaming\\NuGet\\NuGet.Config",
